@@ -16,7 +16,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Slimig&&style=flat-square" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Slimig&theme=dark&show_icons=true" align="center" />
 </div>  
   
 
