@@ -20,11 +20,6 @@
 </div>  
   
 
-<br/>  
-
-<details><summary> Spotify Listening </summary><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21las2jzrkwook5ddbw232dni&cover_image=true&theme=default" /></div></details>
-<br />
-
 
 
 
