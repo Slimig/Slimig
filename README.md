@@ -11,7 +11,7 @@
 <br/>  
 
 <h3 align="center">Languages:</h3>
-<p align="center"> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
 <br/>  
 
